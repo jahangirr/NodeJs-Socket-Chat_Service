@@ -1,5 +1,2 @@
-<<<<<<< HEAD
+
 this is some text new added to git may of the anoskk
-=======
-this is some text new added to git may of the anohto
->>>>>>> 6d8347fb7f4c6b5f783a127ff82a031462874e32
